@@ -10,13 +10,13 @@ There is a single python file called log.py. It queries the website's database a
 
 ## Defined views:
 
-* ** errors ** view
+* **errors** view
 
 `create view errors as
   select to_char(time, 'month dd, yyyy') as day, count(*) as total from log
   where status like '%404%' group by day;`
 
-* ** requests ** view
+* **requests** view
 
 `create view requests as
  select to_char(time, 'month dd, yyyy') as day, count(*) as total from log group by day`
