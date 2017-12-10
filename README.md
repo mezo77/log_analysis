@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WEBSITE'S LOG
 ### this is a log analysis of a website
 
