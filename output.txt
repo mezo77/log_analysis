@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 the most popular 3 articles of all time:
 
 Candidate is jerk, alleges rival __ 338647 views
@@ -14,3 +15,19 @@ Markoff Chaney __ 84557 views
 days on which errors in requests are more than 1%:
 
 july      17, 2016 __ 2.00 % errors
+||||||| merged common ancestors
+=======
+the most popular 3 articles of all time:
+Bad things gone, say good people __ 1677735 views
+Balloon goons doomed __ 1677735 views
+Bears love berries, alleges bear __ 1677735 views
+
+the most popular article authors:
+Ursula La Multa __ 6710940  views
+Rudolf von Treppenwitz __ 3355470  views
+Anonymous Contributor __ 1677735  views
+Markoff Chaney __ 1677735  views
+
+days on which errors in requests are more than 1%:
+july      17, 2016 __ 2.000 %  errors
+>>>>>>> 0f80a50c8f4988dfc3871baf8133a904a5c3f708
