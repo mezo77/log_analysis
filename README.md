@@ -41,9 +41,6 @@ If you don't have __Git__ installed you can get it from [here](https://git-scm.c
 And if you are new to terminal-style and BASH you can take a look at [this](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
 
 
-
-
-
 # Download the Data
 the database that you are going to work on is in _newsdata.sql_ file. You can download it from [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
 
